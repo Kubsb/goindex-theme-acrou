@@ -5,14 +5,10 @@
         <div class="control">
           <div class="tags has-addons">
             <a
-              class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
+              href="https://www.yamiedie.xyz"
+            >雅蠛蝶</a>
             <span class="tag is-light">
-              MIT &nbsp;
-              <span class="icon">
-                <i class="fa fa-github"></i>
-              </span>
+              All rights reserved.
             </span>
           </div>
         </div>
